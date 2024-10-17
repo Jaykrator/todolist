@@ -20,7 +20,8 @@ function renderTasks() {
       "border",
       "rounded-md",
       "px-2",
-      "py-2"
+      "py-2",
+      "w-full"
     );
 
     const taskContent = document.createElement("div");
